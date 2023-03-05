@@ -2,7 +2,7 @@
 title: About
 description: More about our company!
 ---
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/public/space-jelly-fish.webp" alt="Jellyfish in space" title="Jellyfish in space" width="400" height="300" />
+<img src="/public/space-jelly-fish.webp" alt="Jellyfish in space" title="Jellyfish in space" width="400" height="300" />
 
 Welcome to Space Jelly, the go-to website for web development tutorials and resources! Our site is dedicated to helping developers learn how to build modern, dynamic websites using the JAMstack architecture and CloudCannon as a content management system (CMS).
 
